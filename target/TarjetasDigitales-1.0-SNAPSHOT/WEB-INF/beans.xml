@@ -13,4 +13,9 @@
           implementor="org.certific.TarjetaDigital.HelloWorldImpl" 
           address="/HelloWorld" />
           
+         <jaxws:endpoint 
+          id="tarjetaService" 
+          implementor="org.certific.TarjetaDigital.Service.TarjetaServiceImpl" 
+          address="/TarjetaService" />
+          
 </beans>

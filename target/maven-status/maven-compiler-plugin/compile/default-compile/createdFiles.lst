@@ -1,2 +1,8 @@
-org\certific\TarjetaDigital\HelloWorld.class
+org\certific\TarjetaDigital\Model\Tarjeta.class
 org\certific\TarjetaDigital\HelloWorldImpl.class
+org\certific\TarjetaDigital\HelloWorld.class
+org\certific\TarjetaDigital\Repository\TarjetaRepositoryImpl.class
+org\certific\TarjetaDigital\Repository\TarjetaRepository.class
+org\certific\TarjetaDigital\Service\TarjetaService.class
+org\certific\TarjetaDigital\Service\TarjetaServiceImpl.class
+org\certific\TarjetaDigital\Model\Marca.class
