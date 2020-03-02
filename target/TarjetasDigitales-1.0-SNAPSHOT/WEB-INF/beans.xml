@@ -18,4 +18,10 @@
           implementor="org.certific.TarjetaDigital.Service.TarjetaServiceImpl" 
           address="/TarjetaService" />
           
+          
+             <jaxws:endpoint 
+          id="inscripcionService" 
+          implementor="org.certific.TarjetaDigital.Service.InscripcionServiceImpl" 
+          address="/InscripcionService" />
+          
 </beans>
